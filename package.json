@@ -1,0 +1,24 @@
+{
+  "name": "blockchain-node-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyazzz123/Blockchain-Node-Script.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyazzz123/Blockchain-Node-Script/issues"
+  },
+  "homepage": "https://github.com/satyazzz123/Blockchain-Node-Script#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^6.1.3"
+  }
+}
